@@ -1,0 +1,84 @@
+{
+  "data": [
+	{
+	  "id": 0,
+	  "count": 5,
+	  "health": 10,
+	  "speed": 1,
+	  "spawnDelay": 2,
+	  "reward": 6
+	},
+	{
+	  "id": 1,
+	  "count": 6,
+	  "health": 25,
+	  "speed": 1,
+	  "spawnDelay": 2,
+	  "reward": 4
+	},
+	{
+	  "id": 2,
+	  "count": 7,
+	  "health": 40,
+	  "speed": 1,
+	  "spawnDelay": 2,
+	  "reward": 4
+	},
+	{
+	  "id": 3,
+	  "count": 8,
+	  "health": 55,
+	  "speed": 1,
+	  "spawnDelay": 2,
+	  "reward": 4
+	},
+	{
+	  "id": 4,
+	  "count": 9,
+	  "health": 70,
+	  "speed": 1,
+	  "spawnDelay": 2,
+	  "reward": 3
+	},
+	{
+	  "id": 5,
+	  "count": 10,
+	  "health": 85,
+	  "speed": 1,
+	  "spawnDelay": 2,
+	  "reward": 3
+	},
+	{
+	  "id": 6,
+	  "count": 11,
+	  "health": 100,
+	  "speed": 1,
+	  "spawnDelay": 2,
+	  "reward": 3
+	},
+	{
+	  "id": 7,
+	  "count": 12,
+	  "health": 115,
+	  "speed": 1,
+	  "spawnDelay": 2,
+	  "reward": 2
+	},
+	{
+	  "id": 8,
+	  "count": 13,
+	  "health": 130,
+	  "speed": 1,
+	  "spawnDelay": 2,
+	  "reward": 2
+	},
+	{
+	  "id": 9,
+	  "count": 14,
+	  "health": 145,
+	  "speed": 1,
+	  "spawnDelay": 2,
+	  "reward": 0
+	}
+  ]
+}

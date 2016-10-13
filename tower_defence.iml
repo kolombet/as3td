@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="tower_defence">
+    <configurations>
+      <configuration name="tower_defence" target-platform="Desktop" pure-as="true" main-class="Main" output-file="Main.swf" output-folder="$MODULE_DIR$/out/production/tower_defence">
+        <dependencies>
+          <entries>
+            <entry library-id="b097ec08-5635-4fe2-969a-e27a5008784e">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="2e301076-f896-4212-8c6a-ca2edd81a282">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="20.0.0" />
+        </dependencies>
+        <compiler-options>
+          <option name="additionalOptions" value="-default-size 1275 929 -advanced-telemetry=true" />
+        </compiler-options>
+        <packaging-air-desktop use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/game.xml" package-file-name="tower_defence" />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="20.0.0" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/ds-master/swc/ds_debug.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="b097ec08-5635-4fe2-969a-e27a5008784e" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/swc/MinimalDesktopTheme.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="2e301076-f896-4212-8c6a-ca2edd81a282" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/swc/MetalWorksDesktopTheme.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
